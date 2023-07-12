@@ -1,0 +1,3 @@
+[submodule "recipeswebsitefrontend"]
+	path = recipeswebsitefrontend
+	url = https://github.com/linhntt011199/recipeswebsitefrontend.git
